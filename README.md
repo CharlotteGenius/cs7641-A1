@@ -11,5 +11,5 @@
 - https://www.kaggle.com/code/akashkotal/stroke-disease-eda-with-7-machine-learning-model 
 
 # Outcome:
-- outcome.xslx: table of the outcome
+- outcome.xlsx: table of the outcome
 - figures: the output figures
